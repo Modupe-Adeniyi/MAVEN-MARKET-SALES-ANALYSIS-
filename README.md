@@ -19,7 +19,7 @@ This initiative aims to offer insights into the sales performance of Maven Marke
 
 ## Data Sources
 
-The primary dataset employed for this analysis is "Maven Market_Dataset.csv" sourced from Kaggle.com. This dataset encompasses detailed information on each sale, customer interactions, and product returns within Maven Market.
+The primary dataset employed for this analysis is "Maven Market_Dataset.csv" sourced from Kaggle.com. This dataset encompasses detailed information on each sale, customer interactions, and product returned within Maven Market.
 
 ## Tools
 
