@@ -4,10 +4,10 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Preparation/Cleaning](#data-preparation-cleaning)
+- [Data Preparation](#data-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
-- [Results/Findings](#results-findings)
+- [Results](#results)
 - [Recommendations](#recommendations)
 ## Project Overview
 
@@ -16,6 +16,7 @@ This initiative aims to offer insights into the sales performance of Maven Marke
 <img width="479" alt="MM CUSTOMER" src="https://github.com/Modupe-Adeniyi/MAVEN-MARKET-SALES-ANALYSIS-/assets/151841781/6aa7edce-d461-4694-9081-d4352dcd5002">
 <img width="535" alt="MM MARKET BASKET" src="https://github.com/Modupe-Adeniyi/MAVEN-MARKET-SALES-ANALYSIS-/assets/151841781/d0855fa8-6c2c-4a5a-a9be-bfceb90fd681">
 <img width="566" alt="MM RETURN" src="https://github.com/Modupe-Adeniyi/MAVEN-MARKET-SALES-ANALYSIS-/assets/151841781/7142ea07-eea3-4e56-a48e-e3a30729de61">
+<img width="639" alt="MM model" src="https://github.com/Modupe-Adeniyi/MAVEN-MARKET-SALES-ANALYSIS-/assets/151841781/06532b33-91c0-4e70-9007-c1bc0fb5c0d3">
 
 ## Data Sources
 
@@ -26,7 +27,7 @@ The primary dataset employed for this analysis is "Maven Market_Dataset.csv" sou
 - Excel was utilized for data cleaning
 - PowerBI was employed for data analysis and report creation
 
-## Data Preparation/Cleaning
+## Data Preparation
 
 In the initial preparation phase, the following tasks were executed:
 1.	Data loading and inspection.
@@ -57,7 +58,7 @@ SWITCH(TRUE(),
  "Others"
  )``
 
-## Results/Findings
+## Results
 The findings of the analysis are outlined as follows:
 #### * Overall Sales Trend and Peak Sales Period 
 The cumulative sales demonstrated a consistent upward trend, experiencing a significant 163.86% surge from January 1997 to December 1998. Notably, the sales began a pronounced upward trajectory in January 1998, marking a growth of 22.42% (22,005.56) over an 11-month period. The steepest incline occurred between January 1998 and December 1998, with cumulative sales rising from 98,155.28 to 120,160.84. Sales in 1998 surpassed those in 1997, with the peak sales period identified in the month of December.
