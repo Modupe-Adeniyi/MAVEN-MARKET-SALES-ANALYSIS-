@@ -13,9 +13,13 @@
 
 This initiative aims to offer insights into the sales performance of Maven Market, providing an overview of customer engagement and details about returned purchases. Through the comprehensive analysis of various data aspects, the project seeks to pinpoint trends, comprehend customer behavior, generate data-driven recommendations, and enhance understanding of the market's overall performance.
 <img width="507" alt="MM SALES" src="https://github.com/Modupe-Adeniyi/MAVEN-MARKET-SALES-ANALYSIS-/assets/151841781/0d51f6e8-71f5-43ce-b184-427b6c22c047">
+
 <img width="479" alt="MM CUSTOMER" src="https://github.com/Modupe-Adeniyi/MAVEN-MARKET-SALES-ANALYSIS-/assets/151841781/6aa7edce-d461-4694-9081-d4352dcd5002">
+
 <img width="535" alt="MM MARKET BASKET" src="https://github.com/Modupe-Adeniyi/MAVEN-MARKET-SALES-ANALYSIS-/assets/151841781/d0855fa8-6c2c-4a5a-a9be-bfceb90fd681">
+
 <img width="566" alt="MM RETURN" src="https://github.com/Modupe-Adeniyi/MAVEN-MARKET-SALES-ANALYSIS-/assets/151841781/7142ea07-eea3-4e56-a48e-e3a30729de61">
+
 <img width="639" alt="MM model" src="https://github.com/Modupe-Adeniyi/MAVEN-MARKET-SALES-ANALYSIS-/assets/151841781/06532b33-91c0-4e70-9007-c1bc0fb5c0d3">
 
 ## Data Sources
